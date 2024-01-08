@@ -34,6 +34,7 @@ It contains 3 sheets/tables:
 ## DATA MODELING
 
 Power BI created a star schema model by linking related tables automatically. The model's fact table is the 'Order' table. The other two tables, 'Return' and 'People', are dimension tables that join the 'Order' table through the shared columns: 'Order_ID' and 'Region'.
+![DATA MOUDLING](https://github.com/iswzr/SuperStoreSales-Data-Analysis-Using-PowerBI/assets/155778216/39b9e845-da9e-4689-a7d4-9e70e19505cf)
 
 ---
 
