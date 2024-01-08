@@ -34,11 +34,13 @@ It contains 3 sheets/tables:
 ## DATA MODELING
 
 Power BI created a star schema model by linking related tables automatically. The model's fact table is the 'Order' table. The other two tables, 'Return' and 'People', are dimension tables that join the 'Order' table through the shared columns: 'Order_ID' and 'Region'.
+
 ![DATA MOUDLING](https://github.com/iswzr/SuperStoreSales-Data-Analysis-Using-PowerBI/assets/155778216/39b9e845-da9e-4689-a7d4-9e70e19505cf)
 
 ---
 
 ## DATA ANALYSIS AND VISUALS
+
 ![Sales Analysis](https://github.com/iswzr/SuperStoreSales-Data-Analysis-Using-PowerBI/assets/155778216/e3dc492e-1bf2-46a5-b74e-28dc34eedb75)
 
 ## 📈 Sales Overview
@@ -57,7 +59,8 @@ Power BI created a star schema model by linking related tables automatically. Th
 
 ---
 
-##📈 Profitability Analysis
+## 📈 Profitability Analysis
+
 ![Profit Analysis](https://github.com/iswzr/SuperStoreSales-Data-Analysis-Using-PowerBI/assets/155778216/888f9192-a622-428e-ab99-3e743042322f)
 
 ### 💰 Profit Trends
@@ -91,6 +94,7 @@ Power BI created a star schema model by linking related tables automatically. Th
 ---
 
 ## 📊 Product Performance Analysis
+
 ![Product analysis](https://github.com/iswzr/SuperStoreSales-Data-Analysis-Using-PowerBI/assets/155778216/4e8a1716-bdd0-4a10-8327-2c352089705e)
 
 ### 📈 Top Performing Products 
