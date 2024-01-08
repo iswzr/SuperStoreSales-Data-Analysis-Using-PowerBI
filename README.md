@@ -79,9 +79,9 @@ Power BI created a star schema model by linking related tables automatically. Th
 
 ### 🤑 Most Profitable Customers
 
-- Raymond Buch spent the most at $8,453 and had high profitability.
+- Tamara Chand also had 2nd high sales of $37,453 and highest profit of $8,673.
 
-- Tamara Chand also had high sales of $37,453 and profit of $8,673.
+- Raymond Buch at $8,453 had the second high profitability.
 
 - Top customers present cross-selling and loyalty program opportunities.
 
