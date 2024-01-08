@@ -2,9 +2,9 @@
 
 ## INTRODUCTION:
 
-As my inaugural foray into Power BI, I relished the opportunity to independently explore the provided SuperStoreSales dataset without any shareholder pressures or prescriptive requirements. This project allowed me to freely follow my instincts and apply my existing data skills to uncover impactful insights using Power BI's extensive analytics and visualization capabilities. 
+As my first forey into Power BI, I relished the opportunity to independently explore the provided SuperStoreSales dataset without any shareholder pressures or prescriptive requirements. This project allowed me to freely follow my instincts and apply my existing data skills to uncover impactful insights using Power BI's extensive analytics and visualization capabilities. 
 
-The SuperStoreSales dataset contains sales and profitability data including metrics like revenue, units sold, and customer details across 4 years for a retail business. My analysis involved both aggregate level trends as well as drill-downs into specific regional, product and customer cohorts. Exploring this structured dataset improved my proficiency in statistical modeling, data visualization, and identifying actionable insights. Performing end-to-end analysis without defined objectives provided great exposure to the BI value chain while allowing creative freedom. This project expanded my Power BI skillset and piqued my interest in business analytics. The key findings provide data-backed growth opportunities related to sales, profitability, product portfolio, and customer engagement.
+The SuperStoreSales dataset contains sales and profitability data including metrics like revenue, units sold, and customer details across 4 years for a retail business. My analysis involved both aggregate-level trends as well as drill-downs into specific regional, product, and customer cohorts. Exploring this structured dataset improved my proficiency in statistical modeling, data visualization, and identifying actionable insights. Performing end-to-end analysis without defined objectives provided great exposure to the BI value chain while allowing creative freedom. This project expanded my Power BI skillset and piqued my interest in business analytics. The key findings provide data-backed growth opportunities related to sales, profitability, product portfolio, and customer engagement.
 
 ---
 
@@ -125,10 +125,10 @@ Power BI created a star schema model by linking related tables automatically. Th
 
 ----
 
-As a first hands-on Power BI project without any stakeholder objectives, I enjoyed the freedom to explore the data and unearth insights at my own pace. Performing analysis on both numeric and categorical data types gave me great experience. The growth trends and regional variances provided interesting macro insights, while product performance highlighted important micro opportunities. I'm excited to continue honing my analytics skills!
+As a first hands-on Power BI project without any stakeholder objectives, I enjoyed the freedom to explore the data and unearth insights at my own pace. Performing analysis on both numeric and categorical data types gave me a great experience. The growth trends and regional variances provided interesting macro insights, while product performance highlighted important micro opportunities. I'm excited to continue honing my analytics skills!
 
 ---
 
 ![_06e315de-b4a7-42ad-bd19-2828720423a7](https://github.com/iswzr/SuperStoreSales-Data-Analysis-Using-PowerBI/assets/155778216/919f5b24-da17-4078-8d63-7a311924ddc9)
 
-
+#### p.s: This reporting is improved by Grammarly for clarity and precision. Another awesome tool :)
