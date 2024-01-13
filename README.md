@@ -24,10 +24,9 @@ The SuperStoreSales dataset contains sales and profitability data including metr
 
 ## DATA SOURCING
 
-It contains 3 sheets/tables:
-- ORDERS with 51,291 rows and 24 columns
-- PEOPLE with 4 rows and 2 columns
-- RETURNS with 1079 rows and 3 columns
+It contains 1 sheet/table:
+- ORDERS with 51,291 rows and 21 columns
+
 
 ---
 
